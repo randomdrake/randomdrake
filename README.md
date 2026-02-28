@@ -16,7 +16,7 @@
 
 ---
 
-I build things at the intersection of human capability and artificial intelligence. Former **Y Combinator CTO** and **startup CEO** turned AI researcher. I was the first to [**chart the complete phytocannabinoid synthesis process**](https://media.licdn.com/dms/image/v2/C562DAQHhwRB_yUJl_w/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1622703914437?e=1772928000&v=beta&t=EQrDlYwrlf6ld5sNb_AcJh_K1rNTQcTr1OjbyvjLeGU). I spent my early years on stage and behind cameras before finding my way into terminals and codebases — and I think that journey shapes everything I make.
+I build things at the intersection of human capability and artificial intelligence. Former **Y Combinator CTO** and **startup CEO** turned AI researcher. I was the first to [**chart the complete phytocannabinoid synthesis process**](assets/phytocannabinoid-synthesis.jpg). I spent my early years on stage and behind cameras before finding my way into terminals and codebases — and I think that journey shapes everything I make.
 
 I live in Oregon with my wife and daughter. I wrote a book called [***I Will Not Drink With You Today***](https://iwillnotdrinkwithyoutoday.com/) — 366 Stoic reflections for navigating the quiet work of sobriety. My writing has reached hundreds of thousands of readers and appeared in **Sky News** and **The Huffington Post**.
 
