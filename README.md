@@ -7,10 +7,14 @@
 </p>
 
 <p align="center">
+  <a href="https://randomdrake.substack.com/subscribe"><img src="assets/subscribe-substack.svg" alt="Subscribe on Substack" /></a>
+</p>
+
+<p align="center">
+  <a href="https://randomdrake.substack.com">✍️ substack</a> ·
   <a href="https://davidbyrondrake.com">🌐 website</a> ·
   <a href="https://iwillnotdrinkwithyoutoday.com">📖 book</a> ·
   <a href="https://linkedin.com/in/randomdrake">💼 linkedin</a> ·
-  <a href="https://randomdrake.substack.com">✍️ substack</a> ·
   <a href="https://randomdrake.medium.com">📝 medium</a>
 </p>
 
@@ -28,7 +32,7 @@ I believe in good humans, strong coffee, and the outdoors. ☕🌲
 
 - Researching **narrative compression** and the architecture of meaning
 - Building at the intersection of **AI and human experience**
-- Writing daily on [Substack](https://randomdrake.substack.com) and weekly on [Medium](https://randomdrake.medium.com)
+- Writing daily on [**Substack**](https://randomdrake.substack.com) — [subscribe here](https://randomdrake.substack.com/subscribe) — and weekly on [Medium](https://randomdrake.medium.com)
 - Available for **speaking** on engineering leadership, storytelling for technologists, and sustainable sobriety
 - **Open to opportunities** — [let's talk](mailto:david@randomdrake.com)
 
