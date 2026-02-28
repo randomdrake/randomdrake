@@ -20,7 +20,7 @@
 
 ---
 
-I build things at the intersection of human capability and artificial intelligence. Former **Y Combinator CTO** and **startup CEO** turned AI researcher. I was the first to [**chart the complete phytocannabinoid synthesis process**](assets/phytocannabinoid-synthesis.jpg). I spent my early years on stage and behind cameras before finding my way into terminals and codebases — and I think that journey shapes everything I make.
+I build things at the intersection of human capability and artificial intelligence. Former **Y Combinator CTO** and **startup CEO** turned AI researcher. I was the first to **chart the complete phytocannabinoid synthesis process**. I spent my early years on stage and behind cameras before finding my way into terminals and codebases — and I think that journey shapes everything I make.
 
 I live in Oregon with my wife and daughter. I wrote a book called [***I Will Not Drink With You Today***](https://iwillnotdrinkwithyoutoday.com/) — 366 Stoic reflections for navigating the quiet work of sobriety. My writing has reached hundreds of thousands of readers and appeared in **Sky News** and **The Huffington Post**.
 
@@ -43,6 +43,14 @@ I believe in good humans, strong coffee, and the outdoors. ☕🌲
 | [**nasa-apod-desktop**](https://github.com/randomdrake/nasa-apod-desktop) | Auto-downloads NASA's Astronomy Picture of the Day as your desktop wallpaper | ⭐ 151 |
 | [**human-headers**](https://github.com/randomdrake/human-headers) | Lets developers put a little more of themselves into their work | ⭐ 23 |
 | [**jenks**](https://github.com/randomdrake/jenks) | PHP implementation of Jenks Natural Breaks Optimization for choropleth mapping | ⭐ 12 |
+
+### 🧬 phytocannabinoid synthesis
+
+I was the first to chart the complete phytocannabinoid synthesis process — mapping every pathway from precursor molecules through acid synthase, degradation, decarboxylation, and metabolization.
+
+<p align="center">
+  <img src="assets/phytocannabinoid-synthesis.jpg" width="100%" alt="Complete Phytocannabinoid Synthesis Chart — mapping molecular structures and pathways including acid synthase, degradation via air and light, decarboxylation from heat or air, and metabolization through consumption. © 2008–2011 Smokereports.com" />
+</p>
 
 ### 🧰 things i work with
 
