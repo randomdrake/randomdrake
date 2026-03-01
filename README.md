@@ -29,6 +29,11 @@ I write every single day. Engineering, sobriety, fatherhood, and the space betwe
   <a href="https://randomdrake.substack.com/subscribe"><img src="assets/subscribe-substack.svg" alt="Subscribe on Substack" /></a>
 </p>
 
+<p align="center">
+  <a href="https://randomdrake.github.io"><strong>🚀 Check out the live dashboard →</strong></a><br/>
+  <sub>Live commit feed, language breakdown, Claude AI usage stats, pipeline status, and more.</sub>
+</p>
+
 ---
 
 I build things at the intersection of human capability and artificial intelligence. Former **Y Combinator CTO** and **startup CEO** turned AI researcher. I was the first to **chart the complete phytocannabinoid synthesis process**. I spent my early years on stage and behind cameras before finding my way into terminals and codebases — and I think that journey shapes everything I make.
@@ -36,22 +41,6 @@ I build things at the intersection of human capability and artificial intelligen
 I live in Oregon with my wife and daughter. I wrote a book called [***I Will Not Drink With You Today***](https://iwillnotdrinkwithyoutoday.com/) — 366 Stoic reflections for navigating the quiet work of sobriety. My writing has reached hundreds of thousands of readers and appeared in **Sky News** and **The Huffington Post**.
 
 ---
-
-### 📚 Repositories
-
-| Project | Description | |
-|---|---|---|
-| [**nasa-apod-desktop**](https://github.com/randomdrake/nasa-apod-desktop) | Auto-downloads NASA's Astronomy Picture of the Day as your desktop wallpaper | ⭐ 151 |
-| [**human-headers**](https://github.com/randomdrake/human-headers) | Lets developers put a little more of themselves into their work | ⭐ 23 |
-| [**jenks**](https://github.com/randomdrake/jenks) | PHP implementation of Jenks Natural Breaks Optimization for choropleth mapping | ⭐ 12 |
-
-### 💻 Language Breakdown
-
-`Python` · `TypeScript` · `React` · `Next.js` · `PHP` · `Shell` · `AI/ML` · `JavaScript` · `HTML/CSS`
-
-### 🤖 Claude AI Usage
-
-I build with Claude daily — Opus is my primary model. AI isn't just a tool I use; it's a space I research, write about, and build in.
 
 ### 🧬 Phytocannabinoid Synthesis
 
@@ -64,7 +53,6 @@ I was the first to chart the complete phytocannabinoid synthesis process — map
 ### ⚡ About
 
 - 🎭 Theatre → CS pipeline survivor (yes, really)
-- 🧬 First to chart the complete **phytocannabinoid synthesis process**
 - 🔬 Science nerd with a **Commodore 64 tattoo**
 - 📺 Equally comfortable on stage, in front of a camera, or deep in a terminal
 - ✍️ 18 years of writing about ambition, technology, and modern life
@@ -85,10 +73,6 @@ I was the first to chart the complete phytocannabinoid synthesis process — map
 </p>
 
 ---
-
-<p align="center">
-  <code>SOC 2</code> · <code>HIPAA</code> · <code>ISO 42001</code>
-</p>
 
 <p align="center">
   Built with 💜 and too much coffee ☕
