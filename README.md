@@ -1,21 +1,32 @@
 <img src="assets/banner.jpg" width="100%" alt="A purple and magenta starfield with bright blue stars scattered across nebula clouds — NASA Hubble Space Telescope via Unsplash" />
 
-<h1 align="center">hey, i'm david 🌌</h1>
+<h1 align="center">David Drake</h1>
 
 <p align="center">
   <strong>engineering leader · ai researcher · author · <em>the space between</em></strong>
 </p>
 
 <p align="center">
-  <a href="https://randomdrake.substack.com/subscribe"><img src="assets/subscribe-substack.svg" alt="Subscribe on Substack" /></a>
+  Engineering, sobriety, fatherhood, and the space between.
 </p>
 
 <p align="center">
-  <a href="https://randomdrake.substack.com">✍️ substack</a> ·
-  <a href="https://davidbyrondrake.com">🌐 website</a> ·
-  <a href="https://iwillnotdrinkwithyoutoday.com">📖 book</a> ·
-  <a href="https://linkedin.com/in/randomdrake">💼 linkedin</a> ·
-  <a href="https://randomdrake.medium.com">📝 medium</a>
+  <a href="https://davidbyrondrake.com">🌐 Website</a> ·
+  <a href="https://randomdrake.substack.com">✍️ Substack</a> ·
+  <a href="https://iwillnotdrinkwithyoutoday.com">📖 Book</a> ·
+  <a href="https://linkedin.com/in/randomdrake">💼 LinkedIn</a> ·
+  <a href="https://randomdrake.medium.com">📝 Medium</a> ·
+  <a href="mailto:david@randomdrake.com">📫 Email</a>
+</p>
+
+---
+
+### ✍️ Daily Writing
+
+I write every single day. Engineering, sobriety, fatherhood, and the space between. Subscribe to get new posts delivered straight to your inbox.
+
+<p align="center">
+  <a href="https://randomdrake.substack.com/subscribe"><img src="assets/subscribe-substack.svg" alt="Subscribe on Substack" /></a>
 </p>
 
 ---
@@ -24,19 +35,9 @@ I build things at the intersection of human capability and artificial intelligen
 
 I live in Oregon with my wife and daughter. I wrote a book called [***I Will Not Drink With You Today***](https://iwillnotdrinkwithyoutoday.com/) — 366 Stoic reflections for navigating the quiet work of sobriety. My writing has reached hundreds of thousands of readers and appeared in **Sky News** and **The Huffington Post**.
 
-I believe in good humans, strong coffee, and the outdoors. ☕🌲
-
 ---
 
-### 🔭 what i'm up to
-
-- Researching **narrative compression** and the architecture of meaning
-- Building at the intersection of **AI and human experience**
-- Writing daily on [**Substack**](https://randomdrake.substack.com) — [subscribe here](https://randomdrake.substack.com/subscribe) — and weekly on [Medium](https://randomdrake.medium.com)
-- Available for **speaking** on engineering leadership, storytelling for technologists, and sustainable sobriety
-- **Open to opportunities** — [let's talk](mailto:david@randomdrake.com)
-
-### ✨ notable open source
+### 📚 Repositories
 
 | Project | Description | |
 |---|---|---|
@@ -44,7 +45,15 @@ I believe in good humans, strong coffee, and the outdoors. ☕🌲
 | [**human-headers**](https://github.com/randomdrake/human-headers) | Lets developers put a little more of themselves into their work | ⭐ 23 |
 | [**jenks**](https://github.com/randomdrake/jenks) | PHP implementation of Jenks Natural Breaks Optimization for choropleth mapping | ⭐ 12 |
 
-### 🧬 phytocannabinoid synthesis
+### 💻 Language Breakdown
+
+`Python` · `TypeScript` · `React` · `Next.js` · `PHP` · `Shell` · `AI/ML` · `JavaScript` · `HTML/CSS`
+
+### 🤖 Claude AI Usage
+
+I build with Claude daily — Opus is my primary model. AI isn't just a tool I use; it's a space I research, write about, and build in.
+
+### 🧬 Phytocannabinoid Synthesis
 
 I was the first to chart the complete phytocannabinoid synthesis process — mapping every pathway from precursor molecules through acid synthase, degradation, decarboxylation, and metabolization.
 
@@ -52,11 +61,7 @@ I was the first to chart the complete phytocannabinoid synthesis process — map
   <img src="assets/phytocannabinoid-synthesis.jpg" width="100%" alt="Complete Phytocannabinoid Synthesis Chart — mapping molecular structures and pathways including acid synthase, degradation via air and light, decarboxylation from heat or air, and metabolization through consumption. © 2008–2011 Smokereports.com" />
 </p>
 
-### 🧰 things i work with
-
-`Python` · `TypeScript` · `React` · `Next.js` · `PHP` · `Shell` · `AI/ML` · `JavaScript` · `HTML/CSS`
-
-### 🌲 a few things about me
+### ⚡ About
 
 - 🎭 Theatre → CS pipeline survivor (yes, really)
 - 🧬 First to chart the complete **phytocannabinoid synthesis process**
@@ -67,7 +72,7 @@ I was the first to chart the complete phytocannabinoid synthesis process — map
 
 ---
 
-### 🔗 find me elsewhere
+### 🔗 Find Me Elsewhere
 
 <p>
   <a href="https://davidbyrondrake.com">Website</a> ·
@@ -81,4 +86,12 @@ I was the first to chart the complete phytocannabinoid synthesis process — map
 
 ---
 
-<sub>Banner: <a href="https://unsplash.com/@nasahubble">NASA Hubble Space Telescope</a> via <a href="https://unsplash.com/photos/photo-1709141426613-27e8b5d55f13">Unsplash</a> · Open to work 📫</sub>
+<p align="center">
+  <code>SOC 2</code> · <code>HIPAA</code> · <code>ISO 42001</code>
+</p>
+
+<p align="center">
+  Built with 💜 and too much coffee ☕
+</p>
+
+<sub>Banner: <a href="https://unsplash.com/@nasahubble">NASA Hubble Space Telescope</a> via <a href="https://unsplash.com/photos/photo-1709141426613-27e8b5d55f13">Unsplash</a></sub>
