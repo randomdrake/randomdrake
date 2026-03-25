@@ -23,7 +23,7 @@
 
 ### ✍️ Daily Writing
 
-I write every single day. Engineering, sobriety, fatherhood, and the space between. Subscribe to get new posts delivered straight to your inbox.
+I write when I get the chance. Engineering, sobriety, fatherhood, and the space between. Subscribe to get new posts delivered straight to your inbox.
 
 <p align="center">
   <a href="https://randomdrake.substack.com/subscribe"><img src="assets/subscribe-substack.svg" alt="Subscribe on Substack" /></a>
