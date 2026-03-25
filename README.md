@@ -75,7 +75,7 @@ I was the first to chart the complete phytocannabinoid synthesis process — map
 ---
 
 <p align="center">
-  Built with 💜 and too much coffee ☕
+  Built with 🧡 and too much coffee ☕
 </p>
 
 <sub>Banner: <a href="https://unsplash.com/@nasahubble">NASA Hubble Space Telescope</a> via <a href="https://unsplash.com/photos/photo-1709141426613-27e8b5d55f13">Unsplash</a></sub>
