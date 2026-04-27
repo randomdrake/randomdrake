@@ -1,81 +1,84 @@
 <img src="assets/banner.jpg" width="100%" alt="A purple and magenta starfield with bright blue stars scattered across nebula clouds — NASA Hubble Space Telescope via Unsplash" />
 
-<h1 align="center">David Drake</h1>
+<h1 align="center">David Byron Drake</h1>
 
 <p align="center">
-  <strong>engineering leader · ai researcher · author · <em>the space between</em></strong>
+  <strong>Engineering Leader · AI-Forward Engineer · Published Author</strong>
 </p>
 
 <p align="center">
-  Engineering, sobriety, fatherhood, and the space between.
+  Silicon Valley veteran. Former CEO / CTO.<br/>
+  I help leaders and organizations navigate AI with clarity, honesty, and a focus on lasting autonomy.
 </p>
 
 <p align="center">
-  <a href="https://davidbyrondrake.com">🌐 Website</a> ·
-  <a href="https://randomdrake.substack.com">✍️ Substack</a> ·
-  <a href="https://iwillnotdrinkwithyoutoday.com">📖 Book</a> ·
-  <a href="https://linkedin.com/in/randomdrake">💼 LinkedIn</a> ·
-  <a href="https://randomdrake.medium.com">📝 Medium</a> ·
-  <a href="mailto:david@randomdrake.com">📫 Email</a>
-</p>
-
----
-
-### ✍️ Daily Writing
-
-I write when I get the chance. Engineering, sobriety, fatherhood, and the space between. Subscribe to get new posts delivered straight to your inbox.
-
-<p align="center">
-  <a href="https://randomdrake.substack.com/subscribe"><img src="assets/subscribe-substack.svg" alt="Subscribe on Substack" /></a>
-</p>
-
-<p align="center">
-  <a href="https://randomdrake.github.io"><strong>🚀 Check out the live dashboard →</strong></a><br/>
-  <sub>Live commit feed, language breakdown, Claude AI usage stats, pipeline status, and more.</sub>
-</p>
-
----
-
-I build things at the intersection of human capability and artificial intelligence. Former **Y Combinator CTO** and **startup CEO** turned AI researcher. I was the first to **chart the complete phytocannabinoid synthesis process**. I spent my early years on stage and behind cameras before finding my way into terminals and codebases — and I think that journey shapes everything I make.
-
-I live in Oregon with my wife and daughter. I wrote a book called [***I Will Not Drink With You Today***](https://iwillnotdrinkwithyoutoday.com/) — 366 Stoic reflections for navigating the quiet work of sobriety. My writing has reached hundreds of thousands of readers and appeared in **Sky News** and **The Huffington Post**.
-
----
-
-### 🧬 Phytocannabinoid Synthesis
-
-I was the first to chart the complete phytocannabinoid synthesis process — mapping every pathway from precursor molecules through acid synthase, degradation, decarboxylation, and metabolization.
-
-<p align="center">
-  <img src="assets/phytocannabinoid-synthesis.jpg" width="100%" alt="Complete Phytocannabinoid Synthesis Chart — mapping molecular structures and pathways including acid synthase, degradation via air and light, decarboxylation from heat or air, and metabolization through consumption. © 2008–2011 Smokereports.com" />
-</p>
-
-### ⚡ About
-
-- 🎭 Theatre → CS pipeline survivor (yes, really)
-- 🔬 Science nerd with a **Commodore 64 tattoo**
-- 📺 Equally comfortable on stage, in front of a camera, or deep in a terminal
-- ✍️ 18 years of writing about ambition, technology, and modern life
-- 🏔️ Oregon, always
-
----
-
-### 🔗 Find Me Elsewhere
-
-<p>
   <a href="https://davidbyrondrake.com">Website</a> ·
   <a href="https://linkedin.com/in/randomdrake">LinkedIn</a> ·
-  <a href="https://instagram.com/randomdrake">Instagram</a> ·
-  <a href="https://threads.com/@randomdrake">Threads</a> ·
-  <a href="https://tiktok.com/@randomdrake42">TikTok</a> ·
-  <a href="https://github.com/randomdrake">GitHub</a> ·
+  <a href="https://randomdrake.medium.com">Medium</a> ·
+  <a href="https://iwillnotdrinkwithyoutoday.com">Book</a> ·
   <a href="mailto:david@randomdrake.com">Email</a>
 </p>
 
 ---
 
+## About
+
+I am an engineering leader with 18+ years of software development experience, building and scaling teams at the intersection of human capability and artificial intelligence. My work focuses on practical AI implementation, high-trust team building, and the engineering culture that lets both succeed.
+
+Earlier in my career, I served as CEO and CTO of venture-backed companies, including a Y Combinator–backed startup. My writing has reached hundreds of thousands of readers and has appeared in *Sky News* and *The Huffington Post*.
+
+I live in Oregon with my wife and daughter.
+
+---
+
+## Focus Areas
+
+- **Leadership** — Engineering management, team building, and product strategy
+- **Technical** — AI/LLMs, Python, TypeScript, Go, React, cloud infrastructure
+- **Strategic** — AI implementation, SaaS development, startup operations
+
+---
+
+## Selected Work
+
+### Book — *I Will Not Drink With You Today*
+
+[*I Will Not Drink With You Today*](https://iwillnotdrinkwithyoutoday.com/) is a daily companion for sobriety: 366 Stoic reflections on stillness, presence, and the quiet work of staying sober.
+
+### GitHub Dashboard
+
+A live engineering dashboard with real-time analytics, language breakdown, pipeline status, and Claude API integration metrics.
+
 <p align="center">
-  Built with 🧡 and too much coffee ☕
+  <a href="https://randomdrake.github.io"><strong>View the live dashboard →</strong></a>
+</p>
+
+---
+
+## Writing
+
+I write on engineering leadership, AI, sobriety, and the discipline of building well. Recent essays are published on [Medium](https://randomdrake.medium.com).
+
+---
+
+## Speaking & Advisory Topics
+
+- High-trust team building
+- AI implementation and engineering strategy
+- Engineering storytelling and communication
+- Sobriety and sustainable leadership
+- Creative practice for technologists
+
+---
+
+## Contact
+
+Currently open to opportunities in engineering leadership and AI strategy.
+
+<p align="center">
+  <a href="https://davidbyrondrake.com">davidbyrondrake.com</a> ·
+  <a href="https://linkedin.com/in/randomdrake">LinkedIn</a> ·
+  <a href="mailto:david@randomdrake.com">david@randomdrake.com</a>
 </p>
 
 <sub>Banner: <a href="https://unsplash.com/@nasahubble">NASA Hubble Space Telescope</a> via <a href="https://unsplash.com/photos/photo-1709141426613-27e8b5d55f13">Unsplash</a></sub>
